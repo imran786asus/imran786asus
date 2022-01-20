@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @imran786asus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-imran786asus/imran786asus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# TikTok-Algorithm
+Code for generating Tiktok X-Gorgon, X-Khronos and etc. parameters, also containing examples on how to use the TikTok API.
+
+This code was not written by me.
+
+This code was last tested and worked on Nov 20, 2021.
